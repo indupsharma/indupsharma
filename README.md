@@ -2,7 +2,9 @@
 
 Indu is a data enthusiat with 7+ years of experience in Data Analysis and a masters in Data Analytics Engineering from George Mason University. I have gained insights about clean data and transform using scripts. 
 
-🔭 I am currently working exploring courses involving data engineering and machine learning.
+🔭 I am currently working and exploring courses involving data engineering and machine learning.
+
+Open to PhD Research in AI, Data, Business, Security.
 
 <!--
 **indupsharma/indupsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
