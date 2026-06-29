@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Indu is a data enthusiat with 3+ years of experience in Data Analysis and a masters in Data Analytics Engineering from George Mason University. I have gained insights about clean data and transform using scripts. 
+Indu is a data enthusiat with 7+ years of experience in Data Analysis and a masters in Data Analytics Engineering from George Mason University. I have gained insights about clean data and transform using scripts. 
 
 🔭 I am currently working exploring courses involving data engineering and machine learning.
 
