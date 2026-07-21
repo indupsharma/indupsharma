@@ -4,7 +4,7 @@ Indu is a data enthusiat with 7+ years of experience in Data Analysis and a mast
 
 🔭 I am currently working and exploring courses involving data engineering and machine learning.
 
-Open to PhD Research in AI, Data, Business, Security, Healthcare.
+Open to PhD Research in AI, Security, Healthcare.
 
 <!--
 **indupsharma/indupsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
